@@ -1,0 +1,2 @@
+# presmerovani-zamecnictviholanek
+Přesměrování zamecnictviholanek.cz na holanekcompanycz
